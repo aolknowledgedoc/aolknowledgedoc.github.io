@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aolknowledgedoc.github.io/sitemap.xml
